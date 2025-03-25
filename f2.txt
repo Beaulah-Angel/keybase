@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 what is your name?
+=======
+aiml-a acm412
+>>>>>>> ef25e48 (f2.txt is added in fb)
